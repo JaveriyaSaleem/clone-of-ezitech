@@ -4,20 +4,47 @@
 }
 @font-face {
     font-family: Montserrat;
+    src: url(../fonts/Montserrat-SemiBold.ttf);
+}
+@font-face {
+    font-family: Montserrat-Reg;
     src: url(../fonts/Montserrat-Regular.ttf);
+}
+.reg-mont{
+    font-family: Montserrat-Reg;
 }
 .font-12{
 font-size: 12px;
+}
+.font-48{
+    font-size: 48px;
+}
+.color-blue{
+    color:#00CAFE;
 }
 .blue-nav-bg{
 background-color: #3275DB;
 }
 .hero-bg{
-   background-color:  #033D83 !important;
+   /* background-color:  #033d8320 !important; */
+   background-image: url(https://source.unsplash.com/1024x768/?IT,computer,technology,blue);
+   background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
 }
 .montserrat{
     font-family: Montserrat;
 }
 .poppins{
     font-family: Poppins;
+}
+.link{
+text-decoration: none;
+}
+.link:hover{
+    color: #1FA2C6 !important;   
+}
+.link-home{
+    border: hidden;
+    border-bottom: #3275DB solid 2px;
+    padding-bottom: 20px;
 }
