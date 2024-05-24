@@ -48,3 +48,6 @@ text-decoration: none;
     border-bottom: #3275DB solid 2px;
     padding-bottom: 20px;
 }
+input:focus {
+    outline: none;
+}
