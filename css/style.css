@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Poppins;
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: Montserrat;
+    src: url(../fonts/Montserrat-Regular.ttf);
+}
+.font-12{
+font-size: 12px;
+}
+.blue-nav-bg{
+background-color: #3275DB;
+}
+.montserrat{
+    font-family: Montserrat;
+}
+.poppins{
+    font-family: Poppins;
+}
