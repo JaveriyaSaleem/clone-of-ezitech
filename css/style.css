@@ -12,6 +12,9 @@ font-size: 12px;
 .blue-nav-bg{
 background-color: #3275DB;
 }
+.hero-bg{
+   background-color:  #033D83 !important;
+}
 .montserrat{
     font-family: Montserrat;
 }
